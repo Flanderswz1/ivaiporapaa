@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    color: white;
+    background-color: rgb(2, 119, 70);
+}
+
+.titulo {
+    text-align: center;
+    font-family: monospace;
+    color: rgb(0, 0, 0);
+}
+
+.subtitulo {
+    font-family: monospace;
+    text-align: center;
+}
+ 
+.fotocidade{
+    text-align: center;
+}
+footer{
+background-color: rgb(242, 245, 87);
+}
